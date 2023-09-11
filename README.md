@@ -25,4 +25,5 @@ Undertale | [A Little Piece of Heaven](https://www.youtube.com/watch?v=KVjBCT2Lc
 
 &nbsp;
 
-_Get bonus points_ -> All pronouns are okay, but I prefer He/They 🏳️‍⚧️
+_Get bonus points_ -> All pronouns are okay, but I prefer He/They 🏳️‍⚧️  
+My profil picture was done by a friend of mine !
