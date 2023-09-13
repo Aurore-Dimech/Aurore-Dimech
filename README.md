@@ -57,7 +57,9 @@ Professor Layton and the Unwound Future | [The Dancer and The Moon](https://www.
 Undertale | [A Little Piece of Heaven](https://www.youtube.com/watch?v=KVjBCT2Lc94&ab_channel=AvengedSevenfold) - _Avenged Sevenfold_ | Puss in Boots: The Last Wish
 
 ## To mark bonus points with me
-All pronouns are okay, but I prefer **He/They** 🏳️‍⚧️  
+All pronouns are okay, but I prefer **He/They** 🏳️‍⚧️
+
+I go by **"Aurore"** and **"Aaron"** both
 
 &nbsp;
 # 👨‍🦳 Did you ever hear the tragedy of Darth Plagueis the Wise ?
