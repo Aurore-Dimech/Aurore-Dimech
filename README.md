@@ -12,18 +12,17 @@
 
 &nbsp;
 # 🧰 Languages and tools
-<!-- Rajouter background derrière Markdown-->
 <div class=languages>
-    <img src=icone-python.png alt="python's logo">
-    <img src=icone-html.png alt="HTML's logo">
-    <img src=icone-css.png alt="CSS' logo">
-    <img src=icone-javascript.png alt="javascript's logo">
-    <img src=icone-mysql.png alt="MySQL's logo">
-    <img src=icone-php.png alt="PHP's logo">
-    <img src=icone-markdown.png alt="Markdown's logo">
-    <img src=icone-adobe-xd.png alt="Adobe XD's logo">
-    <img src=icone-adobe-photoshop.png alt="Adobe Photoshop's logo">
-    <img src=icone-adobe-illustrator.png alt="Adobe Illustrator's logo">
+    <img src=icone-python.png alt="python's logo" height="40" witdth="auto">
+    <img src=icone-html.png alt="HTML's logo" height="40" witdth="auto">
+    <img src=icone-css.png alt="CSS' logo" height="40" witdth="auto">
+    <img src=icone-javascript.png alt="javascript's logo" height="40" witdth="auto">
+    <img src=icone-mysql.png alt="MySQL's logo" height="40" witdth="auto">
+    <img src=icone-php.png alt="PHP's logo" height="40" witdth="auto">
+    <img src=icone-markdown.png alt="Markdown's logo" height="40" witdth="auto">
+    <img src=icone-adobe-xd.png alt="Adobe XD's logo" height="40" witdth="auto">
+    <img src=icone-adobe-photoshop.png alt="Adobe Photoshop's logo" height="40" witdth="auto">
+    <img src=icone-adobe-illustrator.png alt="Adobe Illustrator's logo" height="40" witdth="auto">
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurore-Dimech&layout=compact)](https://github.com/Aurore-Dimech)
