@@ -12,7 +12,7 @@
 
 🗣️ I am fluent in **French** (native) and **English** (B2), and speak some **Spanish** (B1)
 
-✈️ I visited the **United Kingdom** (3 times), **Spain** (3 times) and **Andorre** (1 time)
+✈️ I visited the **United Kingdom** (3 times), **Spain** (4 times) and **Andorre** (1 time)
 
 💻 I aspire to become a **full-stack developper**
 
@@ -40,6 +40,7 @@
 
 * 📧 aurore.dimech@edu.devinci.fr
 * 📧 aurore.dimech@gmail.com
+* 📥 www.linkedin.com/in/aurore-dimech-8b5b62291
 
 &nbsp;
 # 💁 About me
@@ -60,11 +61,6 @@ Undertale | [A Little Piece of Heaven](https://www.youtube.com/watch?v=KVjBCT2Lc
 All pronouns are okay, but I prefer **He/They** 🏳️‍⚧️
 
 I go by **"Aurore"** and **"Aaron"** both
-
-&nbsp;
-# 👨‍🦳 Did you ever hear the tragedy of Darth Plagueis the Wise ?
-
->I thought not. It’s not a story the Jedi would tell you. It’s a Sith legend. Darth Plagueis was a Dark Lord of the Sith, so powerful and so wise he could use the Force to influence the midichlorians to create life… He had such a knowledge of the dark side that he could even keep the ones he cared about from dying. The dark side of the Force is a pathway to many abilities some consider to be unnatural. He became so powerful… the only thing he was afraid of was losing his power, which eventually, of course, he did. Unfortunately, he taught his apprentice everything he knew, then his apprentice killed him in his sleep. Ironic. He could save others from death, but not himself." - Sheev Palpatine or Darth Sidious.
 
 &nbsp;
 # 💙 Let's work together in the near future !
