@@ -10,7 +10,7 @@
 
 🧠 I also have a **Psychology Degree**  
 
-🗣️ I am fluent in **French** (native) and **English** (B2), and speak some **Spanish** (B1)
+🗣️ I am fluent in **French** (native) and **English** (C1), and speak some **Spanish** (B1)
 
 ✈️ I visited the **United Kingdom** (3 times), **Spain** (4 times) and **Andorre** (1 time)
 
